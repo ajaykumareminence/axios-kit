@@ -1,0 +1,25 @@
+{
+  "name": "axios-kit",
+  "version": "1.0.0",
+  "description": "Axios kit for development",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajaykumareminence/axios-kit.git"
+  },
+  "keywords": [
+    "axios-kit"
+  ],
+  "author": "Ajay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ajaykumareminence/axios-kit/issues"
+  },
+  "homepage": "https://github.com/ajaykumareminence/axios-kit#readme",
+  "dependencies": {
+    "axios": "^1.5.1"
+  }
+}
